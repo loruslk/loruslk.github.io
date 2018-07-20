@@ -1,0 +1,42 @@
+.switchToggle {
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  position: relative;
+}
+
+.switchToggle input {display:none;}
+
+.idtoggle {
+  position: absolute;
+  cursor: pointer;
+  top: 15px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #666666;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.idtoggle:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: -3px;
+  background-color: #d9d9d9;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+/*.inputToggle:checked + .sliderToggle {*/
+  /*background-color: #2196F3;*/
+/*}*/
+
+/*.inputToggle:focus + .sliderToggle {*/
+  /*box-shadow: 0 0 1px #2196F3;*/
+/*}*/
+
+

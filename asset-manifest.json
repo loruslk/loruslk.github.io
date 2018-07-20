@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.59ee57d2.css",
-  "main.css.map": "static/css/main.59ee57d2.css.map",
-  "main.js": "static/js/main.79f9500a.js",
-  "main.js.map": "static/js/main.79f9500a.js.map",
+  "main.css": "static/css/main.305d3a6f.css",
+  "main.css.map": "static/css/main.305d3a6f.css.map",
+  "main.js": "static/js/main.913bbb54.js",
+  "main.js.map": "static/js/main.913bbb54.js.map",
   "static/media/arrow.svg": "static/media/arrow.e23b7aa6.svg",
   "static/media/ascSort.svg": "static/media/ascSort.ff6f3bce.svg",
   "static/media/checkbox-off.png": "static/media/checkbox-off.eaf59e11.png",
@@ -12,5 +12,6 @@
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
   "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/style.scss": "static/media/style.182337a5.scss"
 }
